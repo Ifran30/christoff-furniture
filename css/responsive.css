@@ -1,0 +1,115 @@
+/*google nexus 7*/
+@media only screen and (max-width: 960px) {
+.left_sec {
+	margin-left: -15px;
+}
+.left2 {
+	padding-left: 100px;
+}
+.right_sec {
+	margin-left: 1px!important;
+}
+.right-button {
+	padding-left: 351px!important;
+	position: absolute!important;
+}
+.full_nav {
+	width: 779px!important;
+	margin-left: 0px!important;
+	height: 70px!important;
+}
+.right-button a {
+	margin-left: -115px!important;
+}
+.navbar-brand img {
+	height: 40px!important;
+	margin-left: 0px!important;
+	margin-top: 0px!important;
+}
+.navi_sec ul li {
+	margin-left: -6px!important;
+	margin-top: 7px!important;
+}
+.navi_sec ul li a {
+	font-size: 12px!important;
+	margin-top: 18px!important;
+	margin-left: 27px!important;
+}
+.slider_textt {
+	padding-top: 25%!important;
+}
+.slider_textt h2 {
+	font-size: 30pt!important;
+	line-height: 25px!important;
+}
+.slider_textt h1 {
+	font-size: 34pt!important;
+}
+.slider_textt p {
+	font-size: 12px!important;
+	margin-top: -7px!important;
+}
+.double_btn {
+	margin-left: 177px!important;
+}
+.exp_title h3 {
+	font-size: 20px!important;
+}
+.exp_title p {
+	padding-top: 0px!important;
+	font-size: 12px!important;
+}
+.table1_imge img {
+	height: 80px!important;
+}
+.table1_text {
+	margin-top: 10px!important;
+}
+.table1_text p {
+	margin-top: 10px!important;
+}
+.table2_imge img {
+	height: 80px!important;
+}
+.table2_text {
+	margin-top: 10px!important;
+}
+.table2_text p {
+	margin-top: 10px!important;
+}
+.table3_imge img {
+	height: 80px!important;
+}
+.table3_text {
+	margin-top: 10px!important;
+}
+.table3_text p {
+	margin-top: 10px!important;
+}
+.table1_text span {
+	font-size: 15px!important;
+}
+.table2_text span {
+	font-size: 15px!important;
+}
+.table3_text span {
+	font-size: 15px!important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
