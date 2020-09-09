@@ -268,6 +268,7 @@ body{
 	margin-left: 70px;
 	margin-top: 20px;
 	color: #5F5F5F;
+	padding-bottom: 60px;
 }
 .ratee span {
 	font-size: 20px;
@@ -456,8 +457,7 @@ body{
 
 
 
-.testimoial {
-	padding-top: 60px;
+.testimonial {
 	overflow: hidden;
 }
 .test_imag {
@@ -750,4 +750,5 @@ body{
 	color: #fff;
 	font-size: 13px;
 	margin-top: 15px;
+	margin-left: 400px;
 }
